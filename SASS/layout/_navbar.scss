@@ -1,0 +1,51 @@
+@import './_global-rules';
+
+.nav-style {
+    height: 90px;
+    width: 1440px;
+    background-color: black;
+}
+
+.logo {
+    height: 72px;
+    width: 100px;
+    border-radius: 15%;
+}
+
+.search {
+    position: relative;
+}
+
+.search input {
+    height: 40px;
+    height: 48px;
+    background-color: rgb(49, 48, 54) !important;
+    color: white !important;
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 48px;
+    padding-inline: 44px 16px;
+    outline: none;
+    border-radius: 8px;
+
+    &::placeholder {
+        font-weight: bold;
+        opacity: 0.5;
+        color: white;
+    }
+
+}
+
+.search input:focus {
+    box-shadow: none;
+    border: 2px solid red;
+}
+
+.search .fa-search {
+    position: absolute;
+    top: 12px;
+    left: 16px;
+    color: white;
+    font-weight: bold;
+
+}

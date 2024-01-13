@@ -1,0 +1,23 @@
+$myFont: 'Almarai',
+sans-serif;
+
+$headerFontSize: 35px;
+$headerFontWeight: 700;
+
+$normalFontSize: 18px;
+$normalFontWeight : 500;
+
+.font {
+  font-family: 'Almarai', sans-serif;
+  font-size: $headerFontSize;
+  font-weight: $headerFontWeight;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(20, 20, 20) !important;
+}
+
+.pagi {
+  color: white !important;
+}
