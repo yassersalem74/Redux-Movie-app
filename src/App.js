@@ -10,7 +10,7 @@ function App() {
     <div>
       <NavBar />
       <Container>
-        <BrowserRouter basename="/Movie-React-app">
+        <BrowserRouter basename="/Redux-Movie-app">
           <Routes>
             <Route path="/" element={<MoviesList />} />
             {/* // (:) => thats variable */}
