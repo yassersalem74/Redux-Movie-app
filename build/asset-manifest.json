@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movie-React-app/static/css/main.3e77bb93.css",
+    "main.js": "/Movie-React-app/static/js/main.9c1ac78e.js",
+    "static/media/cinemalogo.jpg": "/Movie-React-app/static/media/cinemalogo.1f5ab69638e2057994c3.jpg",
+    "static/media/no-search-found.png": "/Movie-React-app/static/media/no-search-found.b5f324dd3af7880837ad.png",
+    "index.html": "/Movie-React-app/index.html",
+    "main.3e77bb93.css.map": "/Movie-React-app/static/css/main.3e77bb93.css.map",
+    "main.9c1ac78e.js.map": "/Movie-React-app/static/js/main.9c1ac78e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e77bb93.css",
+    "static/js/main.9c1ac78e.js"
+  ]
+}
