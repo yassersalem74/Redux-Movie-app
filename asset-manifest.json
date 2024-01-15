@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Redux-Movie-app/static/css/main.3e77bb93.css",
+    "main.js": "/Redux-Movie-app/static/js/main.af180c47.js",
+    "static/media/cinemalogo.jpg": "/Redux-Movie-app/static/media/cinemalogo.1f5ab69638e2057994c3.jpg",
+    "static/media/redux.cjs": "/Redux-Movie-app/static/media/redux.f4a7be3b467d805fb6e4.cjs",
+    "static/media/no-search-found.png": "/Redux-Movie-app/static/media/no-search-found.b5f324dd3af7880837ad.png",
+    "index.html": "/Redux-Movie-app/index.html",
+    "main.3e77bb93.css.map": "/Redux-Movie-app/static/css/main.3e77bb93.css.map",
+    "main.af180c47.js.map": "/Redux-Movie-app/static/js/main.af180c47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e77bb93.css",
+    "static/js/main.af180c47.js"
+  ]
+}
